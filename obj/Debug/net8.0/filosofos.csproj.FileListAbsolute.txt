@@ -1,0 +1,14 @@
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\bin\Debug\net8.0\filosofos.exe
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\bin\Debug\net8.0\filosofos.deps.json
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\bin\Debug\net8.0\filosofos.runtimeconfig.json
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\bin\Debug\net8.0\filosofos.dll
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\bin\Debug\net8.0\filosofos.pdb
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\obj\Debug\net8.0\filosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\obj\Debug\net8.0\filosofos.AssemblyInfoInputs.cache
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\obj\Debug\net8.0\filosofos.AssemblyInfo.cs
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\obj\Debug\net8.0\filosofos.csproj.CoreCompileInputs.cache
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\obj\Debug\net8.0\filosofos.dll
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\obj\Debug\net8.0\refint\filosofos.dll
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\obj\Debug\net8.0\filosofos.pdb
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\obj\Debug\net8.0\filosofos.genruntimeconfig.cache
+C:\Users\eecas\OneDrive\Escritorio\Computo en la Nube EECA C7\filosofos\obj\Debug\net8.0\ref\filosofos.dll
